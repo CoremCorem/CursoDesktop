@@ -6,3 +6,6 @@ Curso para probar GitHub Desktop
 cambios desde "rama1"
 
 corrección del issue #1
+
+
+Ya esta arreglado tu issue
