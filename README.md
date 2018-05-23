@@ -12,3 +12,6 @@ Ya esta arreglado tu issue
 
 cerrar issue desde commit
 
+cambio sobre nueva rama
+
+
