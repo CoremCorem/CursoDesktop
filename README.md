@@ -14,4 +14,6 @@ cerrar issue desde commit
 
 cambio sobre nueva rama
 
+otro cambio (release 0.3)
+
 
